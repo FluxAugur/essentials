@@ -2,42 +2,29 @@
 
 This is a list of the applications that I consider essential.
 
-**Development**
+## Development
 
-**Package Managers**
+## Productivity
 
-* [Alcatraz](#alcatraz)
+[2Do](http://www.2doapp.com) is a excellent app for tracking checklists, tasks, and projects.
 
-## App Information
+* Available for [OS X](https://itunes.apple.com/us/app/2do/id477670270#) and [iPhone/iPad](https://itunes.apple.com/us/app/2do-tasks-done-in-style/id303656546).
 
-### Alcatraz
+## Package Managers
 
-[Alcatraz](http://alcatraz.io) is an open-source package manager for Xcode, that lets you discover and install plugins, templates, and color schemes without the need for manually cloning or copying files, installs itself as a part of Xcode.
+[Alcatraz](http://alcatraz.io) is an open-source package manager for Xcode, that lets you discover and install plugins, templates, and color schemes without the need for manually cloning or copying files. Alcatraz installs itself as a part of Xcode.
 
-#### Repos
+*Requires [Xcode Command Line Tools](#xcode-command-line-tools)*
 
-* [Official](https://github.com/alcatraz/Alcatraz)
+* Download the source from [GitHub](https://github.com/alcatraz/Alcatraz)
+* Install, from a terminal, with `curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/install.sh | sh`
 
-#### Installation
+[Atom](https://atom.io) is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
 
-```bash
-curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/install.sh | sh
-```
+*Requires [Xcode Command Line Tools](#xcode-command-line-tools)*
 
-#### Uninstall
-
-```bash
-rm -rf ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/Alcatraz.xcplugin
-rm -rf ~/Library/Application\ Support/Alcatraz
-```
-
-#### Notes
-
-Requires Xcode Command Line Tools, which can be installed using:
-
-```bash
-xcode-select --install
-```
+* Download from the [official site](https://atom.io/download/mac).
+* Install, from a terminal, using [Homebrew Cask](#homebrew-cask), using `brew cask install atom`
 
 ## Feedback
 

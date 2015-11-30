@@ -5,7 +5,10 @@ This is a collection of lists that contain all of the tools that I consider esse
 * [Apps](apps.md)
 * [Brews](brews.md)
 * [Casks](casks.md)
+* [Extensions](extensions.md)
 * [Gems](gems.md)
+* [Plugins](plugins.md)
+* [Themes](themes.md)
 
 ## Feedback
 
