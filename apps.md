@@ -4,6 +4,13 @@ This is a list of the applications that I consider essential.
 
 ## Development
 
+[Atom](https://atom.io) is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
+
+*Requires [Xcode Command Line Tools](#xcode-command-line-tools)*
+
+* Download from the [official site](https://atom.io/download/mac).
+* Install, from a terminal, using [Homebrew Cask](#homebrew-cask), using `brew cask install atom`
+
 ## Productivity
 
 [2Do](http://www.2doapp.com) is a excellent app for tracking checklists, tasks, and projects.
@@ -18,13 +25,6 @@ This is a list of the applications that I consider essential.
 
 * Download the source from [GitHub](https://github.com/alcatraz/Alcatraz)
 * Install, from a terminal, with `curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/install.sh | sh`
-
-[Atom](https://atom.io) is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
-
-*Requires [Xcode Command Line Tools](#xcode-command-line-tools)*
-
-* Download from the [official site](https://atom.io/download/mac).
-* Install, from a terminal, using [Homebrew Cask](#homebrew-cask), using `brew cask install atom`
 
 ## Feedback
 
